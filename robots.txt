@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jaynegii2602-wq.github.io/NegiBrothers/sitemap.xml
